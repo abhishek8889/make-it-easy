@@ -1,6 +1,6 @@
 {
     "name": "devashar/makeiteasy",
-    "license": "\\",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Dev\\Makeiteasy\\": "src/"
