@@ -1,0 +1,22 @@
+{
+    "name": "dev/makeiteasy",
+    "license": "\\",
+    "autoload": {
+        "psr-4": {
+            "Dev\\Makeiteasy\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "dev",
+            "email": "sharmaabhi8889@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Dev\\MakeItEasy\\": "src/"
+        }
+    }
+    
+}
